@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://www.liquor.com/thmb/sUKZSwJj7slc5l-LDyK8eajT0LY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/very-sexy-martini-720x720-primary-b1212ebf73f54f898a56f7f0b60c0a34.jpg"
+    },
+    {
+        "name": "Marguarita",
+        "price": 13,
+        "img": "https://www.kerryfoodservice.com/cdn/shop/products/swzjjrcehfuoah8kn4hz_1000x.jpg?v=1615853893"
+    },
+    {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://leitesculinaria.com/wp-content/uploads/2021/06/mexican-mojito.jpg"
+    }
+]
